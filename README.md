@@ -1,3 +1,4 @@
+<img width="1470" height="802" alt="Screenshot 2026-02-08 at 8 55 19 PM" src="https://github.com/user-attachments/assets/efed356e-23b3-4b37-9c5a-88a4243cc0e3" />
 # Emergency Response System
 
 A full-stack Emergency Response System built with the MERN stack.  
